@@ -3,8 +3,6 @@
   display: flex;
 }
 
-
-
 /* 2. exercice-direction-1 */
 .exercice-direction-1 .container {
   display: flex;
@@ -42,5 +40,10 @@
 }
 
 /* 8. all-in */
+.exercice-all-in .container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  flex-direction: row-reverse;
+}
 
 
