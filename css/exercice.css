@@ -4,16 +4,26 @@
 }
 
 /* 2. exercice-direction-1 */
+.exercice-direction-1 .container {
+  display: flex;
+  flex-direction: column;
+}
 
 /* 3. exercice-direction-2 */
 
+
 /* 4. exercice-direction-2 */
+
 
 /* 5. exercice-wrap-1 */
 
+
 /* 6. exercice-wrap-2 */
+
 
 /* 7. exercice-wrap-3 */
 
+
 /* 8. all-in */
+
 
